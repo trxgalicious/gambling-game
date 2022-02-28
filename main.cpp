@@ -7,14 +7,6 @@
 #include <stdlib.h>
 #include <sstream>
 
-/*
-int numbers()
-{
-
-    // std::cout << lines[random_number];
-    return 0;
-}
-*/
 int main()
 {
     int input;
